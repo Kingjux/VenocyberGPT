@@ -1,6 +1,6 @@
 <a href="https://VenocyberGPT.vercel.app">
   <img alt="Chat With GPT For Free Without Signup/Login." src="/app/favicon.ico">
-  <h1 align="center">Gifted ChatGPT</h1>
+  <h1 align="center">Venocyber ChatGPT</h1>
 </a>
 
 <p align="center">
