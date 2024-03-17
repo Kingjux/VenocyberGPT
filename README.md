@@ -23,13 +23,13 @@ Venocyber ChatGPT is an Open-Source AI Chatbot that uses [OpenAI APi Functions](
 
 ## Setting Up Locally
 
-To set up Gifted ChatGPT locally, you'll need to clone the repository and set up the following environment variables:
+To set up Venocyber ChatGPT locally, you'll need to clone the repository and set up the following environment variables:
 
 - `OPENAI_API_KEY` – your OpenAI API key (you can get one [here](https://platform.openai.com/account/api-keys))
 
 ## Tech Stack
 
-Gifted ChatGPT is built on the following stack:
+Venocyber ChatGPT is built on the following stack:
 
 - [Next.js](https://nextjs.org/) – Framework
 - [OpenAI APi Functions](https://platform.openai.com/docs/guides/gpt/function-calling) - AI Completions
@@ -46,7 +46,7 @@ Here's how you can contribute:
 
 ## Owner
 
-- Gifted Tech ([WhatsApp Me](https://wa.me/message/MSSH2UWWOQBDL1)
+- Venocyber Tech ([WhatsApp Me](https://wa.me/message/MSSH2UWWOQBDL1)
 
 ## License
 
