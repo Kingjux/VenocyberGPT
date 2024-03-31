@@ -206,7 +206,7 @@ export default function Chat() {
         <p className="text-center text-xs text-gray-400">
           Built With{" "}
           <a
-            href="https://VenocyberGPT.vercel.app"
+            href="https://venocyber-gpt-vagn.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
@@ -215,7 +215,7 @@ export default function Chat() {
           </a>{" "}
           and{" "}
           <a
-            href="https://VenocyberGPT.vercel.app"
+            href="https://venocyber-gpt-vagn.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
@@ -233,7 +233,7 @@ export default function Chat() {
           </a>{" "}
           so{" "}
           <a
-            href="https://VenocyberGPT.vercel.app"
+            href="https://venocyber-gpt-vagn.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
